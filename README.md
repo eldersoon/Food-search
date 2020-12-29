@@ -1,12 +1,12 @@
 ## Search for recipes
 
 This simple app searches for recipes, their ingredients and the amount of calories
-live: https://foodsearchreactapp.herokuapp.com
+- live: https://foodsearchreactapp.herokuapp.com
 
 ### Used API
 
-SITE: https://www.edamam.com
-DOCUMENTATION: https://developer.edamam.com/edamam-docs-recipe-api
+- SITE: https://www.edamam.com
+- DOCUMENTATION: https://developer.edamam.com/edamam-docs-recipe-api
 
 ## Installation and Setup Instructions
 
